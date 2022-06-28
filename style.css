@@ -1,0 +1,30 @@
+/* * {
+    background-color: gray;
+} */
+
+div p {
+    color: red;
+}
+
+.text {
+    color: blue;
+    font-size: 4rem;
+}
+
+#search {
+    color: pink;
+}
+
+div>h1 {
+    color: purple;
+}
+
+input[type="text"] {
+    height: 20rem;
+}
+
+input[type="button"] {
+    width: 20rem;
+    background-color: red;
+    cursor: pointer;
+}
